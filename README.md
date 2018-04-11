@@ -1,4 +1,4 @@
-# Python Workshop
+# Python Wokshop
 
 ## Requirements
 Python - Programming language
